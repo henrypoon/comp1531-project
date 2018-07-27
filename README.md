@@ -1,4 +1,5 @@
 # COMP1531 18s1 Group Project
+UNSW Events Manager in Flask
 
 ### Documentation
 Documentation can be found in the `docs` folder.
