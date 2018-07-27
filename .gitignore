@@ -179,8 +179,8 @@ Session.vim
 tags
 
 # db files
-*.db
-ems/static/photos
+#*.db
+#ems/static/photos
 ~$*.docx
 
 ems/.idea
